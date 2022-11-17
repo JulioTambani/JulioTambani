@@ -1,4 +1,4 @@
-### Seja bem vindo!!! 👋
+<h1 align="left">Hi, I'm Julio Tambani <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 - 📖 I’m currently learning CSS, HTML and JavaScript.
 - Fun fact:💰 - I'm an investment specialist.
