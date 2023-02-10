@@ -1,7 +1,11 @@
-<h1 align="left">Hi, I'm Julio Tambani <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Hi, I'm Julio Tambani<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-- 📖 I’m currently learning CSS, HTML and JavaScript.
-- Fun fact:💰 - I'm an investment specialist.
+- 📖 I am currently learning Web Development.
+  I am a student of Trybe - Class 31 B.
+- Curiosity: 
+- I specialize in investments.
+- I practice Jiu-Jitsu.
+- Lord of the Rings > Harry Potter > Hobbit.
 <div>
   <a href="https://github.com/JulioTambani">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JulioTambani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
