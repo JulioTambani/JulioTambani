@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Julio Tambani<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 - 📖 I am currently learning Web Development.
-  I am a student of Trybe - Class 31 B.
+- I am a student of Trybe - Class 31 B.
 - Curiosity: 
 - I specialize in investments.
 - I practice Jiu-Jitsu.
