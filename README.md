@@ -5,6 +5,13 @@
 - Curiosity: 
 - I specialize in investments.
 - Lord of the Rings > Harry Potter > Hobbit.
+<p>
+ Feel free to reach out to me.<br>I'm open to feedback and suggestions!<br>Just click on the icons of my social networks below.
+  <p>
+<div> 
+  <a href = "mailto:juliotambani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <p>
+  <a href="https://www.linkedin.com/in/julionmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
   <a href="https://github.com/JulioTambani">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JulioTambani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -16,10 +23,8 @@
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <p>
-<div> 
-  <a href = "mailto:juliotambani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julionmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:julionmelo@outlook.com"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+<p>
+<p>
 
 ![Snake animation](https://github.com/JulioTambani/JulioTambani/blob/output/github-contribution-grid-snake.svg)
 </div>
