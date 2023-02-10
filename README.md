@@ -4,7 +4,6 @@
 - I am a student of Trybe - Class 31 B.
 - Curiosity: 
 - I specialize in investments.
-- I practice Jiu-Jitsu.
 - Lord of the Rings > Harry Potter > Hobbit.
 <div>
   <a href="https://github.com/JulioTambani">
