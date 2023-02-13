@@ -4,7 +4,6 @@
 - I am a student of Trybe - Class 31 B.
 - Curiosity: 
 - I specialize in investments.
-- Lord of the Rings > Harry Potter > Hobbit.
 <p>
  Feel free to reach out to me.<br>I'm open to feedback and suggestions!<br>Just click on the icons of my social networks below.
   <p>
