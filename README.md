@@ -5,7 +5,7 @@
 - Curiosity: 
 - I specialize in investments.
 <p>
- Feel free to reach out to me.<br>I'm open to feedback and suggestions!<br>Just click on the icons of my social networks below.
+ <strong>Feel free to reach out to me.<br>I'm open to feedback and suggestions!<br>Just click on the icons of my social networks below.</strong>
   <p>
 <div> 
   <a href = "mailto:juliotambani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
